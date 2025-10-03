@@ -1,1 +1,20 @@
 
+{
+  "title": "Titre de la leçon 01",
+  "year": 2025,
+  "unit": "01",
+  "content": [
+    {
+      "heading": "Introduction",
+      "text": "Ceci est l’introduction de la leçon 01 pour l’année 2025."
+    },
+    {
+      "heading": "Verset",
+      "text": "Exemple de verset ou texte biblique ici."
+    },
+    {
+      "heading": "Résumé",
+      "text": "Résumé ou réflexion sur la leçon."
+    }
+  ]
+}
